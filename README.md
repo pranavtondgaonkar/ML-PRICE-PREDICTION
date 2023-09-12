@@ -19,17 +19,3 @@ By using machine learning, logistics companies can analyze historical data to le
 
 Machine Learning-Based Regression Models for Price Prediction in the Australian Container Shipping Industry: Case Study of Asia-Oceania Trade Lane
 https://www.researchgate.net/publication/340241957_Machine_Learning-Based_Regression_Models_for_Price_Prediction_in_the_Australian_Container_Shipping_Industry_Case_Study_of_Asia-Oceania_Trade_Lane
-
-
-<! --- 
-![image](https://github.com/pranavrelds/ML-PRICE-PREDICTION/assets/84423424/b3bf244c-965f-4fd8-8980-6009a90c9d1b)
-
-![image](https://github.com/pranavrelds/ML-PRICE-PREDICTION/assets/84423424/93d307ed-e70e-4a10-b25c-ac120a99dac8)
-
-![image](https://github.com/pranavrelds/ML-PRICE-PREDICTION/assets/84423424/e6d729e5-0be0-4a9d-a8a0-2e7f46322943)
-
-![image](https://github.com/pranavrelds/ML-PRICE-PREDICTION/assets/84423424/98746c19-cbb0-49d5-8ff2-d660aba2ff8e)
---->
-
-
-
