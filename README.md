@@ -3,17 +3,16 @@
 
 ## Problem Statement
 
-This data science project will build a machine learning system to predict the cost of shipping a package. This is useful for logistics companies that need to price their shipping services dynamically based on a variety of factors, such as the weight and dimensions of the package, the distance it needs to be shipped, the mode of transportation, and any special handling requirements. By using machine learning, logistics companies can avoid losing money on delayed or damaged shipments, and they can also offer more competitive prices to attract customers.
+This project builds a machine learning system to predict the cost of shipping a package. This is useful for logistics companies that need to price their shipping services dynamically based on a variety of factors, such as the weight and dimensions of the package, the distance it needs to be shipped, the mode of transportation, and any special handling requirements. By using machine learning, logistics companies can avoid losing money on delayed or damaged shipments, and they can also offer more competitive prices to attract customers.
 
 Here are some of the factors that can affect the cost of shipping a package:
 
-    Weight and dimensions of the package: The heavier and larger the package, the more it will cost to ship.
-    Distance: The further the package needs to be shipped, the more it will cost.
-    Mode of transportation: The mode of transportation used to ship the package will also affect the cost. For example, air freight is more expensive than ground shipping.
-    Special handling requirements: If the package requires special handling, such as refrigeration or hazardous materials handling, the cost will be higher.
+* Weight and dimensions of the package: The heavier and larger the package, the more it will cost to ship
+* Distance: The farther the package needs to be shipped, the more it will cost
+* Mode of transportation: The mode of transportation used to ship the package will also affect the cost. For example, air freight is more expensive than ground shipping
+* Special handling requirements: If the package requires special handling, such as refrigeration or hazardous materials handling, the cost will be higher
 
-By using machine learning, logistics companies can analyze historical data to learn how these factors affect the cost of shipping. This information can then be used to build a model that can predict the cost of shipping a package for any given set of inputs. This allows logistics companies to price their shipping services more accurately and dynamically, which can help them to improve their bottom line and attract more customers.
-
+By using machine learning, logistics companies can analyze historical data to learn how these factors affect the cost of shipping. This information can then be used to build a model that can predict the cost of shipping a package for any given set of inputs. This allows logistics companies to price their shipping services more accurately and dynamically, which can help them improve their bottom line and attract more customers.
 
 
 ### Existing Solution
